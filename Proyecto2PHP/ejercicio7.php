@@ -39,7 +39,7 @@
 		$factorial = 1;
 		if (is_numeric($numeroF)){
 			for ($i = 1; $i <= $numeroF; $i++){
-				$factorial = $factorial * $i;
+				$factorial = $fact * $i;
 			}
 		} else {
 		$numeroF = "";
