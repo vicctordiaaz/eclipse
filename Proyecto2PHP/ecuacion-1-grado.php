@@ -9,7 +9,7 @@ if ($a == 0) {
 }
 ?>
 
-<form action="ecuacion-1-grado.php" method="POST">
+<form method="POST">
 	Numero1: <input type="text" name="var1" size="10" value="var1"/>
 	Numero2: <input type="text" name="var2" size="10" value="var2"/>
 	<input type="submit" value="Solucion" name="subSolucion"/>
